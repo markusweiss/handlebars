@@ -1,0 +1,35 @@
+{
+  "name": "handlebars",
+  "version": "1.0.0",
+  "description": "some handlebars tests",
+  "main": "index.js",
+  "scripts": {
+    "dev": "parcel index.html",
+    "build": "parcel build index.html",
+    "watch": "parcel watch index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/markusweiss/handlebars.git"
+  },
+  "keywords": [
+    "handlebars",
+    "css",
+    "scss",
+    "parcel",
+    "fetchapi"
+  ],
+  "author": "markus weiss",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/markusweiss/handlebars/issues"
+  },
+  "homepage": "https://github.com/markusweiss/handlebars#readme",
+  "dependencies": {
+    "parcel": "^1.12.4"
+  },
+  "devDependencies": {
+    "stylelint": "^13.8.0",
+    "stylelint-config-standard": "^20.0.0"
+  }
+}
